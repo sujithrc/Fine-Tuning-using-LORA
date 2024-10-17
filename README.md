@@ -1,8 +1,8 @@
-# Fine-Tunning-using-LORA
+# Fine-Tuning-using-LORA
 
-Fine Tunning:
+Fine Tuning:
  
-1# FIne tunning is a “conversation of HIGH-MEMO0RY model to LOW-MEMORY model”
+1# FIne tuning is a “conversation of HIGH-MEMO0RY model to LOW-MEMORY model”
 
 2# “Converting “full-Precision(FP)” model into “half-precision”model
 
@@ -26,7 +26,7 @@ Fine Tunning:
 
 
 
-Work process of Fine- tunning:
+Work process of Fine- tuning:
 * Fine-tuning was done by “Quantization” makes full precision into half-precision 
        Type:
        1. Post quantisation training(loss of data- accuracy reduction)
